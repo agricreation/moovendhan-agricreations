@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
      <main>
-      <Homes />
+      {/* <Homes /> */}
       <ModeToggle />
     </main>
     </>
